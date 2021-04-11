@@ -1,0 +1,29 @@
+.profile_img{
+    width: 100px;
+    height: 100px;
+    vertical-align: baseline;
+}
+.profile_login{
+    font-weight: bold;
+}
+.paginat{
+    padding: 5px;
+    margin: 3px;
+    background: gray;
+    color: wheat;
+    height: 30px;
+    width: 30px;
+    border-radius: 5px;
+}
+.paginat_ul{
+    padding: 0;
+}
+.profile{
+    display: inline-block;
+    width: 250px;
+    height: 250px;
+}
+/*.profile_img{*/
+/*    height: 200px;*/
+/*    width: 200px;*/
+/*}*/

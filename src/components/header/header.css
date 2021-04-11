@@ -1,0 +1,36 @@
+header{
+    width: 100%;
+    min-height: 100px;
+    background: darkcyan;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 0 30px;
+}
+header a{
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+}
+header ul{
+    padding: 0 30px;
+}
+header ul li{
+    display: inline-block;
+    padding: 0 30px;
+    vertical-align: middle;
+}
+img{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.user_role{
+    font-size: 12px;
+    text-transform: lowercase;
+}
+.user_info div{
+    display: inline-block;
+    vertical-align: middle;
+}

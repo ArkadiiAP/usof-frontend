@@ -1,0 +1,16 @@
+.comment{
+    width: 90%;
+    margin: auto;
+    border: 1px solid lightgray;
+}
+.comment_flex{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+.comment_author{
+    display: flex;
+}
+.comment_author p{
+    margin: 0;
+}
